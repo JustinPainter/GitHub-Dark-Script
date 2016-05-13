@@ -1,3 +1,6 @@
+# Note
+This repo is a fork of the original and fantastic [StylishThemes](https://github.com/StylishThemes/GitHub-Dark-Script) repo. I made this copy to play with the code and tweak to my hearts content. Please take a look at the original repository if you are interested in installing this userscript, as I'm not likely to keep up with updates.
+
 # GitHub Dark Script [![tag](https://img.shields.io/github/tag/JustinPainter/GitHub-Dark-Script.svg)](https://github.com/JustinPainter/GitHub-Dark-Script/tags) [![devdeps](https://img.shields.io/david/dev/JustinPainter/GitHub-Dark-Script.svg)](https://david-dm.org/JustinPainter/GitHub-Dark-Script#info=devDependencies)
 > GitHub Dark in userscript form, with a settings panel
 
