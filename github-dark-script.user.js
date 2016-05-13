@@ -37,7 +37,7 @@
     keyboardDelay : 1000,
 
     // base urls to fetch style and package.json
-    root : 'https://raw.githubusercontent.com/StylishThemes/GitHub-Dark/master/',
+    root : 'https://raw.githubusercontent.com/JustinPainter/GitHub-Dark/master/',
 
     defaults : {
       attach : 'scroll',
@@ -64,6 +64,7 @@
       'Mono Industrial' : 'themes/mono-industrial.min.css',
       'Mono Industrial Clear' : 'themes/mono-industrial-clear.min.css',
       'Monokai' : 'themes/monokai.min.css',
+      'Monokai Dark' : 'themes/monokai-dark.min.css',
       'Obsidian' : 'themes/obsidian.min.css',
       'Pastel on Dark' : 'themes/pastel-on-dark.min.css',
       'Solarized Dark' : 'themes/solarized-dark.min.css',
