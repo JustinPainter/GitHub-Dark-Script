@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         GitHub Dark Script
-// @version      1.0.8
+// @version      1.0.10
 // @description  GitHub Dark in userscript form, with a settings panel
-// @namespace    https://github.com/StylishThemes
+// @namespace    https://github.com/JustinPainter
 // @include      /https?://((gist|guides|help|raw|status|developer)\.)?github\.com((?!generated_pages\/preview).)*$/
 // @include      /render\.githubusercontent\.com/
 // @include      /raw\.githubusercontent\.com/
@@ -15,8 +15,8 @@
 // @run-at       document-start
 // @require      https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js
 // @require      https://greasyfork.org/scripts/15563-jscolor/code/jscolor.js?version=106439
-// @updateURL    https://raw.githubusercontent.com/StylishThemes/GitHub-Dark-Script/master/github-dark-script.user.js
-// @downloadURL  https://raw.githubusercontent.com/StylishThemes/GitHub-Dark-Script/master/github-dark-script.user.js
+// @updateURL    https://raw.githubusercontent.com/JustinPainter/GitHub-Dark-Script/master/github-dark-script.user.js
+// @downloadURL  https://raw.githubusercontent.com/JustinPainter/GitHub-Dark-Script/master/github-dark-script.user.js
 // ==/UserScript==
 /* global jQuery, jscolor */
 /* eslint-disable indent, quotes */
